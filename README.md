@@ -11,9 +11,9 @@ System requirements to run this script:
 4) Mozilal Driver geckodriver( already included in tthe project) path: bin/
 
 Usage: 
-git clone https://github.com/hackaholic/flight_booking.git
-cd flight_booking
-python3 makemytrip.py
+1) git clone https://github.com/hackaholic/flight_booking.git
+2) cd flight_booking
+3) python3 makemytrip.py
 
 Thanks
 
