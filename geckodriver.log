@@ -1,0 +1,235 @@
+1536959126458	geckodriver	INFO	geckodriver 0.21.0
+1536959126460	geckodriver	INFO	Listening on 127.0.0.1:42449
+1536959127469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wQR6MWoR5lgF"
+1536959129436	Marionette	INFO	Listening on port 41711
+1536959129475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959129501	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959129501	Marionette	DEBUG	[2147483649] Frame script registered
+1536959129508	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959130909	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959135192	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959144634	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959154107	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959154416	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959156752	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959158072	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959158308	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959163885	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959164255	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959167389	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959167599	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959167602	Marionette	DEBUG	[2147483649] Received DOM event unload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959168041	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483692
+1536959168041	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1536959168041	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1536959168041	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483689
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483695
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483699
+1536959168042	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483702
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+1536959169622	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... alse-1537380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/32c87d00ab2|50ca|4445|65ed|3bbe9c8e/odc/asyncResponsiveReview#
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959174608	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... 37380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/32c87d00ab2|50ca|4445|65ed|3bbe9c8e/odc/asyncResponsiveReview#/review
+1536959262087	Marionette	INFO	Stopped listening on port 41711
+1536959267380	geckodriver	INFO	geckodriver 0.21.0
+1536959267383	geckodriver	INFO	Listening on 127.0.0.1:42453
+1536959268392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aKXIlR7gDoEc"
+1536959270287	Marionette	INFO	Listening on port 33723
+1536959270303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959270331	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959270334	Marionette	DEBUG	[2147483649] Frame script registered
+1536959270341	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959271794	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959275906	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959279361	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959288871	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959289139	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959291438	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959292802	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959293038	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+1536959298514	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959298909	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959302072	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959302472	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959302476	Marionette	DEBUG	[2147483649] Received DOM event unload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959303072	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1536959303072	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1536959303073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1536959303073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1536959303073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1536959303073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1536959303073	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+1536959304701	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... -false-1537380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/bbdfb4018a|a5b6|0aa2|022b|fb77d4b/odc/asyncResponsiveReview#
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959311313	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... 1537380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/bbdfb4018a|a5b6|0aa2|022b|fb77d4b/odc/asyncResponsiveReview#/review
+1536959397639	geckodriver	INFO	geckodriver 0.21.0
+1536959397641	geckodriver	INFO	Listening on 127.0.0.1:42265
+1536959398651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PYMfKN9Dl5yw"
+1536959400674	Marionette	INFO	Listening on port 33555
+1536959400756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959400781	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959400782	Marionette	DEBUG	[2147483649] Frame script registered
+1536959400789	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959402133	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959406103	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959412414	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959421863	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959422157	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959424442	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959425755	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959425994	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+1536959431515	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959432011	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959435202	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959435412	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959435415	Marionette	DEBUG	[2147483649] Received DOM event unload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483692
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483679
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483681
+1536959435783	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1536959435784	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+1536959437553	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... false-1537380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/15ef3c07da|9d4c|0ea1|8295|1c3d8a52/odc/asyncResponsiveReview#
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959442978	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018/0-false-3045-3097-true-fal ... 537380000000-1537390200000-2044-0-0-574-R0IP2484-R-6EUNI/15ef3c07da|9d4c|0ea1|8295|1c3d8a52/odc/asyncResponsiveReview#/review
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_18-09-2018,BLR_DEL_19-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript error: https://flights.makemytrip.com/makemytrip//search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+[Parent 31429, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-cTfMPD/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536959662463	Marionette	INFO	Stopped listening on port 33555
+1536959666127	geckodriver	INFO	geckodriver 0.21.0
+1536959666130	geckodriver	INFO	Listening on 127.0.0.1:59317
+1536959667139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dnajOtDfs6DX"
+1536959669136	Marionette	INFO	Listening on port 33055
+1536959669145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959669173	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959669173	Marionette	DEBUG	[2147483649] Frame script registered
+1536959669189	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959670618	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959673761	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959678834	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959688318	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959688664	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959690965	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959692324	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959692567	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+1536959698061	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959698501	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959701679	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959701998	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959701999	Marionette	DEBUG	[2147483649] Received DOM event unload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1536959702440	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1536959702441	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483684
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+1536959704008	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018/1-true-3515.5-3516-false-f ... alse-1537038000000-1537048500000-3632-0-0-654-O0IP2625-O-6EUNI/14533f40764|850b|2168|977e|36c4ee3c/odc/asyncResponsiveReview#
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959710419	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018/1-true-3515.5-3516-false-f ... 37038000000-1537048500000-3632-0-0-654-O0IP2625-O-6EUNI/14533f40764|850b|2168|977e|36c4ee3c/odc/asyncResponsiveReview#/review
+1536959792865	Marionette	INFO	Stopped listening on port 33055
+1536959854806	geckodriver	INFO	geckodriver 0.21.0
+1536959854809	geckodriver	INFO	Listening on 127.0.0.1:51803
+1536959855818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tI1friqfGbMq"
+1536959857815	Marionette	INFO	Listening on port 35055
+1536959857825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959857853	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959857854	Marionette	DEBUG	[2147483649] Frame script registered
+1536959857877	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959859310	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959862320	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959871554	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959880890	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959886918	Marionette	INFO	Stopped listening on port 35055
+1536959888108	geckodriver	INFO	geckodriver 0.21.0
+1536959888110	geckodriver	INFO	Listening on 127.0.0.1:45643
+1536959889119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tjC2RlLhO6WA"
+1536959891212	Marionette	INFO	Listening on port 40987
+1536959891231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536959891257	Marionette	DEBUG	[2147483649] Frame script loaded
+1536959891259	Marionette	DEBUG	[2147483649] Frame script registered
+1536959891266	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1536959892703	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1536959896811	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.makemytrip.com/flights/
+1536959901771	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.makemytrip.com/flights/
+JavaScript error: https://homestays.makemytrip.com/dist/hs-prefetcher.js, line 1: SyntaxError: expected expression, got '<'
+1536959911262	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959911574	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959913866	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959915149	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959915384	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959923834	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959924280	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1536959927466	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959927700	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959927703	Marionette	DEBUG	[2147483649] Received DOM event unload for https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=
+1536959927968	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483687
+1536959927968	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1536959927968	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1536959927968	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483675
+1536959927968	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483676
+1536959927969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483682
+1536959927969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483685
+1536959927969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483690
+1536959927969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483694
+1536959927969	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483697
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+JavaScript warning: https://flights.makemytrip.com/makemytrip/resources/prod/js/raw.review.min.js?2018-09-04, line 801: unreachable code after return statement
+1536959929939	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018/1-true-3515.5-3516-false-f ... false-1537038000000-1537048500000-3632-0-0-654-O0IP2625-O-6EUNI/876bf80042|d971|28aa|9c1e|2548648e/odc/asyncResponsiveReview#
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959936235	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://flights.makemytrip.com/makemytrip/review/R/R/E/1/0/0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018/1-true-3515.5-3516-false-f ... 537038000000-1537048500000-3632-0-0-654-O0IP2625-O-6EUNI/876bf80042|d971|28aa|9c1e|2548648e/odc/asyncResponsiveReview#/review
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript error: https://flights.makemytrip.com/makemytrip/search/R/R/E/1/0/0/S/V0/DEL_BLR_15-09-2018,BLR_DEL_16-09-2018?contains=false&remove=, line 16: TypeError: ({beacon:"bam.nr-data.net", errorBeacon:"bam.nr-data.net", licenseKey:"303951a945", applicationID:"16657503", sa:1, agent:"js-agent.newrelic.com/nr-892.min.js"}) is not a function
+JavaScript error: , line 0: uncaught exception: Mbox mboxClickTrack is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=AW-824113569, line 74: unreachable code after return statement
+1536959990681	Marionette	INFO	Stopped listening on port 40987
